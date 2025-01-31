@@ -1,3 +1,3 @@
 Test
 
-## Contibuting
+## Contributing
